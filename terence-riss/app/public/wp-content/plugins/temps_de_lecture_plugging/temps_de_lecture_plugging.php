@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Temps de Lecture
-Plugin URI: Votre URL du plugin (facultatif)
+Plugin URI: https://github.com/TerenceRiss/plugginWordpress
 Description: Plugin pour calculer et afficher le temps de lecture des articles.
 Version: 1.0
 Author: Terence Riss
