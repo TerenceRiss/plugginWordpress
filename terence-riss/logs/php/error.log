@@ -1,0 +1,3 @@
+[24-Jul-2023 13:00:16 UTC] WordPress database error Table 'local.wp_FinalTiles_gallery' doesn't exist for query SELECT * FROM wp_FinalTiles_gallery made by activate_plugin, do_action('activate_final-tiles-grid-gallery-lite/FinalTilesGalleryLite.php'), WP_Hook->do_action, WP_Hook->apply_filters, activate_finaltilesgallery, FinalTilesDB::updateConfiguration
+[27-Jul-2023 09:38:25 UTC] PHP Warning:  Array to string conversion in /home/riss/Local Sites/terence-riss/app/public/wp-content/themes/twentyseventeen/single.php on line 21
+[27-Jul-2023 09:38:33 UTC] PHP Warning:  Array to string conversion in /home/riss/Local Sites/terence-riss/app/public/wp-content/themes/twentyseventeen/single.php on line 21
